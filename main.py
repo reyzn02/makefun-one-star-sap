@@ -12,9 +12,9 @@ import sys
 
 LINE = (
     "One star. He waters me whenever he remembers I exist \u2014 roughly "
-    "never \u2014 then acts betrayed when I drop a leaf. I photosynthesise "
-    "for this man and get repaid with tap water and a windowsill facing "
-    "a brick wall."
+    "never \u2014 then acts betrayed when I drop a leaf, like it's a "
+    "personal attack. I photosynthesise for this man and get repaid in "
+    "tap water and a windowsill facing a brick wall."
 )
 
 
